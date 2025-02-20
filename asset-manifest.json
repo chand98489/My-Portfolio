@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/My-Portfolio/static/js/main.b763090f.js",
+    "static/media/HeroImage1.jpeg.jpg": "/My-Portfolio/static/media/HeroImage1.jpeg.a36bc1f72ffbb6e6204b.jpg",
+    "index.html": "/My-Portfolio/index.html",
+    "main.bf538fe7.css.map": "/My-Portfolio/static/css/main.bf538fe7.css.map",
+    "main.b763090f.js.map": "/My-Portfolio/static/js/main.b763090f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.b763090f.js"
+  ]
+}
